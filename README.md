@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on __some side projects__.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning __Docker, AWS and TypScript
 - 💬 Ask me about __React, ElasticSearch, Node.js__.
 - 📫 React me out at jixuni@gmail.com or drop by my webpage [here](https://jicoding.dev).
 - ⚡ Fun fact __No one likes working with certificates__ 😅 .
