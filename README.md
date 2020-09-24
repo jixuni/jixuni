@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning ...
 - 💬 Ask me about __React, ElasticSearch, Node.js__.
 - 📫 React me out at jixuni@gmail.com or drop by my webpage [here](https://jicoding.dev).
-- ⚡ Fun fact: __No one likes working with certificates... 😅 __.
+- ⚡ Fun fact __No one likes working with certificates__ 😅 .
 
 
 
