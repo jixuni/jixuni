@@ -12,10 +12,6 @@
 <a href="https://github.com/jixuni/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jixuni&show_icons=true"
 </a>
- 
-[![Spotify](https://jixuni.vercel.app/api/spotify)](https://open.spotify.com/user/jixuni)
-
-
 
 
 ### Language and Tools
