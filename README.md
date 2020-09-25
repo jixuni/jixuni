@@ -10,7 +10,7 @@
 - ⚡ Fun fact __No one likes working with certificates__ 😅 .
 
 <a href="https://github.com/jixuni/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.jixuni.vercel.app//api?username=jixuni&show_icons=true"
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jixuni&show_icons=true"
  </a>
 
 
