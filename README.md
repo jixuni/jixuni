@@ -1,6 +1,6 @@
  <h1 align="center"> Hi there 👋, I'm Ji</h1>
  <br />
-  <h3 align="center"> A passionate Full Stack developer from New York, currently interested in DevOps, Cloud Computing, web technologies and 🍕. </h3>
+  <h3 align="center"> A passionate Engineer from New York, currently interested in DevOps, Cloud Computing, web technologies and 🍕. </h3>
 
 
 - 🔭 I’m currently working on __some side projects__.
